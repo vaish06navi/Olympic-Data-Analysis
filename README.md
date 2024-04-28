@@ -8,7 +8,7 @@
 Install Python and Visual Studio code using below given link
 
 - **Python Desktop Application**: "https://www.python.org/downloads/"
-- Visual Studion Code IDE: "https://code.visualstudio.com/download"
+- **Visual Studion Code IDE**: "https://code.visualstudio.com/download"
 - Open the project folder inside the visual studio code
 
 Install the below given libery in command prompt or visual studio code terminal
@@ -27,6 +27,7 @@ Afte installing the project required python libery we return use termianl to run
 
 after you run this line the streamlit create a localhost in your machine and run this web application using browser
 This is the localhost that streamlit is host our web application
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/139cbc10-2f21-49ab-b7ef-92850986e640)
 
 
@@ -36,18 +37,22 @@ Data Analysis is perfomed on four level
 - Country Analysis
 - Sports Analysis
 - Athlete Analysis
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/21a8d020-4d79-4946-b941-93da278958f4)
 
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/16672c65-b471-412a-bcee-9eef63b96c23)
 
 **Medal Tally**
+
 - Overall
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/ef7b0116-d6f7-43d2-b148-61d38ecae7c8)
 
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/529b094a-1b55-48aa-9419-b5eb97c816bf)
 
 
 - Select Specific Years & specific Country // Eg: 2016-South Africa
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/17f6def7-bd23-42b1-bc58-538a8ca5dfb1)
 
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/208dd01e-380d-4fcc-aca0-6d0bb5ce6a6c)
@@ -65,6 +70,7 @@ Data Analysis is perfomed on four level
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/9e4fc1e1-7768-4a38-b297-3bb6aad02a9b)
 
 - Most Successful Atheletes: Option Overall or specifc specific sport(eg: Archery)
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/3f29a1ca-aff3-4c2c-bffe-f72932bc3f6a)
 
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/0386d11d-705c-450c-9946-997e9af92317)
@@ -80,6 +86,7 @@ Data Analysis is perfomed on four level
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/514b624a-4740-461e-b6ef-3de55961a21b)
 
 **Athlete Analysis**
+
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/b41100b0-2de3-4d37-961e-c46424ad6be1)
 
 ![image](https://github.com/vaish06navi/Olympic-Data-Analysis-Web-Application/assets/132326467/0eddd637-6484-4541-91cf-8d1e5c41188e)
